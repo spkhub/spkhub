@@ -1,4 +1,4 @@
-<h1>helpwithmonitoring</h1>
+<h1>Download&Work w/ Prometheus</h1>
 
 <div align="center">
   <pre>
@@ -155,7 +155,7 @@ sudo systemctl restart prometheus
 
 #### *state is up* ####
 
-![Logo](images/prometheuslogo.png)
+![Logo](prometheuslogo.png)
 </details>
 
 <h2>GRAFANA</h2>
